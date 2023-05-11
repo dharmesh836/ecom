@@ -1,0 +1,245 @@
+{
+  "product_id": 358,
+  "product_name": "Leica Q2",
+  "brand": "Leica",
+  "price": 5495.0,
+  "description": "The Leica Q2 is a full-frame compact camera with a 47.3MP sensor, 4K video recording, and advanced autofocus technology.",
+  "image_url": {
+    "img1": "https://rukminim1.flixcart.com/image/416/416/kk01pjk0/dslr-camera/f/v/o/eos-1500d-canon-original-imafzfugydh2mjgf.jpeg?q=70",
+    "img2": "",
+    "img3": ""
+  },
+  "category": "Electronics",
+  "sub_category": "Camera",
+
+  "reviews": {
+    "total_reviews": 2,
+    "average_rating": 4.5,
+    "reviews_list": [
+      {
+        "review_id": 1,
+        "reviewer_name": "John Smith",
+        "rating": 5,
+        "comment": "This camera is amazing! The picture quality is fantastic and the autofocus is lightning fast. Highly recommended.",
+        "date": "2022-04-15"
+      },
+      {
+        "review_id": 2,
+        "reviewer_name": "Jane Doe",
+        "rating": 4,
+        "comment": "I'm really happy with this camera so far. The only downside is the price, but you get what you pay for.",
+        "date": "2022-05-03"
+      },
+      {
+        "review_id": 2,
+        "reviewer_name": "Jane Doe",
+        "rating": 4,
+        "comment": "I'm really happy with this camera so far. The only downside is the price, but you get what you pay for.",
+        "date": "2022-05-03"
+      },
+      {
+        "review_id": 2,
+        "reviewer_name": "Jane Doe",
+        "rating": 4,
+        "comment": "I'm really happy with this camera so far. The only downside is the price, but you get what you pay for.",
+        "date": "2022-05-03"
+      },
+      {
+        "review_id": 2,
+        "reviewer_name": "Jane Doe",
+        "rating": 4,
+        "comment": "I'm really happy with this camera so far. The only downside is the price, but you get what you pay for.",
+        "date": "2022-05-03"
+      },
+      {
+        "review_id": 2,
+        "reviewer_name": "Jane Doe",
+        "rating": 4,
+        "comment": "I'm really happy with this camera so far. The only downside is the price, but you get what you pay for.",
+        "date": "2022-05-03"
+      },
+      {
+        "review_id": 2,
+        "reviewer_name": "Jane Doe",
+        "rating": 4,
+        "comment": "I'm really happy with this camera so far. The only downside is the price, but you get what you pay for.",
+        "date": "2022-05-03"
+      },
+      {
+        "review_id": 2,
+        "reviewer_name": "Jane Doe",
+        "rating": 4,
+        "comment": "I'm really happy with this camera so far. The only downside is the price, but you get what you pay for.",
+        "date": "2022-05-03"
+      },
+      {
+        "review_id": 2,
+        "reviewer_name": "Jane Doe",
+        "rating": 4,
+        "comment": "I'm really happy with this camera so far. The only downside is the price, but you get what you pay for.",
+        "date": "2022-05-03"
+      },
+      {
+        "review_id": 2,
+        "reviewer_name": "Jane Doe",
+        "rating": 4,
+        "comment": "I'm really happy with this camera so far. The only downside is the price, but you get what you pay for.",
+        "date": "2022-05-03"
+      },
+      {
+        "review_id": 2,
+        "reviewer_name": "Jane Doe",
+        "rating": 4,
+        "comment": "I'm really happy with this camera so far. The only downside is the price, but you get what you pay for.",
+        "date": "2022-05-03"
+      },
+      {
+        "review_id": 2,
+        "reviewer_name": "Jane Doe",
+        "rating": 4,
+        "comment": "I'm really happy with this camera so far. The only downside is the price, but you get what you pay for.",
+        "date": "2022-05-03"
+      },
+      {
+        "review_id": 2,
+        "reviewer_name": "Jane Doe",
+        "rating": 4,
+        "comment": "I'm really happy with this camera so far. The only downside is the price, but you get what you pay for.",
+        "date": "2022-05-03"
+      },
+      {
+        "review_id": 2,
+        "reviewer_name": "Jane Doe",
+        "rating": 4,
+        "comment": "I'm really happy with this camera so far. The only downside is the price, but you get what you pay for.",
+        "date": "2022-05-03"
+      },
+      {
+        "review_id": 2,
+        "reviewer_name": "Jane Doe",
+        "rating": 4,
+        "comment": "I'm really happy with this camera so far. The only downside is the price, but you get what you pay for.",
+        "date": "2022-05-03"
+      },
+      {
+        "review_id": 2,
+        "reviewer_name": "Jane Doe",
+        "rating": 4,
+        "comment": "I'm really happy with this camera so far. The only downside is the price, but you get what you pay for.",
+        "date": "2022-05-03"
+      },
+      {
+        "review_id": 2,
+        "reviewer_name": "Jane Doe",
+        "rating": 4,
+        "comment": "I'm really happy with this camera so far. The only downside is the price, but you get what you pay for.",
+        "date": "2022-05-03"
+      },
+      {
+        "review_id": 2,
+        "reviewer_name": "Jane Doe",
+        "rating": 4,
+        "comment": "I'm really happy with this camera so far. The only downside is the price, but you get what you pay for.",
+        "date": "2022-05-03"
+      },
+      {
+        "review_id": 2,
+        "reviewer_name": "Jane Doe",
+        "rating": 4,
+        "comment": "I'm really happy with this camera so far. The only downside is the price, but you get what you pay for.",
+        "date": "2022-05-03"
+      },
+      {
+        "review_id": 2,
+        "reviewer_name": "Jane Doe",
+        "rating": 4,
+        "comment": "I'm really happy with this camera so far. The only downside is the price, but you get what you pay for.",
+        "date": "2022-05-03"
+      },
+      {
+        "review_id": 2,
+        "reviewer_name": "Jane Doe",
+        "rating": 4,
+        "comment": "I'm really happy with this camera so far. The only downside is the price, but you get what you pay for.",
+        "date": "2022-05-03"
+      },
+      {
+        "review_id": 2,
+        "reviewer_name": "Jane Doe",
+        "rating": 4,
+        "comment": "I'm really happy with this camera so far. The only downside is the price, but you get what you pay for.",
+        "date": "2022-05-03"
+      },
+      {
+        "review_id": 2,
+        "reviewer_name": "Jane Doe",
+        "rating": 4,
+        "comment": "I'm really happy with this camera so far. The only downside is the price, but you get what you pay for.",
+        "date": "2022-05-03"
+      },
+      {
+        "review_id": 2,
+        "reviewer_name": "Jane Doe",
+        "rating": 4,
+        "comment": "I'm really happy with this camera so far. The only downside is the price, but you get what you pay for.",
+        "date": "2022-05-03"
+      },
+      {
+        "review_id": 2,
+        "reviewer_name": "Jane Doe",
+        "rating": 4,
+        "comment": "I'm really happy with this camera so far. The only downside is the price, but you get what you pay for.",
+        "date": "2022-05-03"
+      },
+      {
+        "review_id": 2,
+        "reviewer_name": "Jane Doe",
+        "rating": 4,
+        "comment": "I'm really happy with this camera so far. The only downside is the price, but you get what you pay for.",
+        "date": "2022-05-03"
+      },
+      {
+        "review_id": 2,
+        "reviewer_name": "Jane Doe",
+        "rating": 4,
+        "comment": "I'm really happy with this camera so far. The only downside is the price, but you get what you pay for.",
+        "date": "2022-05-03"
+      },
+      {
+        "review_id": 2,
+        "reviewer_name": "Jane Doe",
+        "rating": 4,
+        "comment": "I'm really happy with this camera so far. The only downside is the price, but you get what you pay for.",
+        "date": "2022-05-03"
+      },
+      {
+        "review_id": 2,
+        "reviewer_name": "Jane Doe",
+        "rating": 4,
+        "comment": "I'm really happy with this camera so far. The only downside is the price, but you get what you pay for.",
+        "date": "2022-05-03"
+      },
+      {
+        "review_id": 2,
+        "reviewer_name": "Jane Doe",
+        "rating": 4,
+        "comment": "I'm really happy with this camera so far. The only downside is the price, but you get what you pay for.",
+        "date": "2022-05-03"
+      },
+      {
+        "review_id": 2,
+        "reviewer_name": "Jane Doe",
+        "rating": 4,
+        "comment": "I'm really happy with this camera so far. The only downside is the price, but you get what you pay for.",
+        "date": "2022-05-03"
+      },
+      {
+        "review_id": 2,
+        "reviewer_name": "Jane Doe",
+        "rating": 4,
+        "comment": "I'm really happy with this camera so far. The only downside is the price, but you get what you pay for.",
+        "date": "2022-05-03"
+      }
+    ]
+  }
+}

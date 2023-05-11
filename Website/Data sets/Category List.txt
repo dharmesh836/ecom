@@ -1,0 +1,18 @@
+Here is the data in a simple format:
+
+1. Electronics
+2. Clothing
+6. Health & Wellness
+7. Sports & Outdoors
+8. Toys & Games
+11. Furniture
+13. Books
+
+
+14. Music
+15. Movies & TV
+16. Pet Supplies
+17. Food & Beverages
+18. Office & School Supplies
+19. Travel & Luggage
+20. Automotive

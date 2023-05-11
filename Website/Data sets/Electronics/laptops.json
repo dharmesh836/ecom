@@ -1,0 +1,149 @@
+[
+  {
+    "product_id": 50,
+    "product_name": "Apple MacBook Pro 13-inch",
+    "brand": "Apple",
+    "price": 1299.99,
+    "description": "The Apple MacBook Pro 13-inch features a Retina display, M1 chip, 8GB of RAM, and up to 512GB SSD storage.",
+    "image_url": "https://images.unsplash.com/photo-1579621974059-291eb6539537?auto=format&q=75&fit=crop&w=750",
+    "category_id": 4
+  },
+
+  {
+    "product_id": 51,
+    "product_name": "Dell XPS 13",
+    "brand": "Dell",
+    "price": 1199.99,
+    "description": "The Dell XPS 13 features a 13.4-inch FHD+ display, 11th Gen Intel Core processors, up to 16GB of RAM, and up to 2TB SSD storage.",
+    "image_url": "https://images.unsplash.com/photo-1589843471894-c4d756c6e994?auto=format&q=75&fit=crop&w=750",
+    "category_id": 4
+  },
+
+  {
+    "product_id": 52,
+    "product_name": "Lenovo ThinkPad X1 Carbon",
+    "brand": "Lenovo",
+    "price": 1499.99,
+    "description": "The Lenovo ThinkPad X1 Carbon features a 14-inch FHD+ display, 11th Gen Intel Core processors, up to 16GB of RAM, and up to 2TB SSD storage.",
+    "image_url": "https://images.unsplash.com/photo-1555991090-ebcd8bbdef4c?auto=format&q=75&fit=crop&w=750",
+    "category_id": 4
+  },
+
+  {
+    "product_id": 53,
+    "product_name": "HP Spectre x360",
+    "brand": "HP",
+    "price": 999.99,
+    "description": "The HP Spectre x360 features a 13.3-inch FHD display, 11th Gen Intel Core processors, up to 16GB of RAM, and up to 2TB SSD storage.",
+    "image_url": "https://images.unsplash.com/photo-1584504961473-406ff28b3c60?auto=format&q=75&fit=crop&w=750",
+    "category_id": 4
+  },
+
+  {
+    "product_id": 54,
+    "product_name": "ASUS ZenBook UX425",
+    "brand": "ASUS",
+    "price": 899.99,
+    "description": "The ASUS ZenBook UX425 features a 14-inch FHD display, 11th Gen Intel Core processors, up to 16GB of RAM, and up to 1TB SSD storage.",
+    "image_url": "https://images.unsplash.com/photo-1592895693065-f938a1c0426a?auto=format&q=75&fit=crop&w=750",
+    "category_id": 4
+  },
+  {
+    "product_id": 55,
+    "product_name": "Dell XPS 13",
+    "brand": "Dell",
+    "price": 1099.99,
+    "description": "The Dell XPS 13 features a 13.3-inch FHD display, 11th Gen Intel Core processors, up to 16GB of RAM, and up to 1TB SSD storage.",
+    "image_url": "https://images.unsplash.com/photo-1615976033912-7f3b3d4b4ad5?auto=format&q=75&fit=crop&w=750",
+    "category_id": 4
+  },
+
+  {
+    "product_id": 56,
+    "product_name": "Apple MacBook Air",
+    "brand": "Apple",
+    "price": 999.99,
+    "description": "The Apple MacBook Air features a 13.3-inch Retina display, Apple M1 chip, up to 16GB of RAM, and up to 2TB SSD storage.",
+    "image_url": "https://images.unsplash.com/photo-1589564061031-6a0a13a834c8?auto=format&q=75&fit=crop&w=750",
+    "category_id": 4
+  },
+
+  {
+    "product_id": 57,
+    "product_name": "HP Spectre x360",
+    "brand": "HP",
+    "price": 1299.99,
+    "description": "The HP Spectre x360 features a 13.3-inch FHD touch display, 11th Gen Intel Core processors, up to 16GB of RAM, and up to 2TB SSD storage.",
+    "image_url": "https://images.unsplash.com/photo-1611792677428-3c3656c3f3ea?auto=format&q=75&fit=crop&w=750",
+    "category_id": 4
+  },
+
+  {
+    "product_id": 58,
+    "product_name": "Lenovo ThinkPad X1 Carbon",
+    "brand": "Lenovo",
+    "price": 1299.99,
+    "description": "The Lenovo ThinkPad X1 Carbon features a 14-inch FHD display, 11th Gen Intel Core processors, up to 16GB of RAM, and up to 1TB SSD storage.",
+    "image_url": "https://images.unsplash.com/photo-1600343507066-1119a9f8688c?auto=format&q=75&fit=crop&w=750",
+    "category_id": 4
+  },
+
+  {
+    "product_id": 59,
+    "product_name": "Acer Swift 5",
+    "brand": "Acer",
+    "price": 999.99,
+    "description": "The Acer Swift 5 features a 14-inch FHD display, 11th Gen Intel Core processors, up to 16GB of RAM, and up to 1TB SSD storage.",
+    "image_url": "https://images.unsplash.com/photo-1615478241963-bc15df0d2d3c?auto=format&q=75&fit=crop&w=750",
+    "category_id": 4
+  },
+
+  {
+    "product_id": 60,
+    "product_name": "Dell XPS 13",
+    "brand": "Dell",
+    "price": 1399.99,
+    "description": "The Dell XPS 13 features a 13.4-inch FHD+ display, 11th Gen Intel Core processors, up to 16GB of RAM, and up to 1TB SSD storage.",
+    "image_url": "https://images.unsplash.com/photo-1598511491095-e5db5f0e43c5?auto=format&q=75&fit=crop&w=750",
+    "category_id": 4
+  },
+  {
+    "product_id": 61,
+    "product_name": "Lenovo ThinkPad X1 Carbon",
+    "brand": "Lenovo",
+    "price": 1599.99,
+    "description": "The Lenovo ThinkPad X1 Carbon features a 14-inch FHD display, 11th Gen Intel Core processors, up to 16GB of RAM, and up to 1TB SSD storage.",
+    "image_url": "https://images.unsplash.com/photo-1587919204888-cda774a0e249?auto=format&q=75&fit=crop&w=750",
+    "category_id": 4
+  },
+
+  {
+    "product_id": 62,
+    "product_name": "HP Spectre x360",
+    "brand": "HP",
+    "price": 1199.99,
+    "description": "The HP Spectre x360 features a 13.3-inch FHD display, 11th Gen Intel Core processors, up to 16GB of RAM, and up to 1TB SSD storage.",
+    "image_url": "https://images.unsplash.com/photo-1604324814088-17ca3f766809?auto=format&q=75&fit=crop&w=750",
+    "category_id": 4
+  },
+
+  {
+    "product_id": 63,
+    "product_name": "Apple MacBook Pro",
+    "brand": "Apple",
+    "price": 1499.99,
+    "description": "The Apple MacBook Pro features a 13-inch Retina display, 10th Gen Intel Core processors, up to 32GB of RAM, and up to 4TB SSD storage.",
+    "image_url": "https://images.unsplash.com/photo-1551970466-609e1531270e?auto=format&q=75&fit=crop&w=750",
+    "category_id": 4
+  },
+
+  {
+    "product_id": 64,
+    "product_name": "Microsoft Surface Laptop 4",
+    "brand": "Microsoft",
+    "price": 1299.99,
+    "description": "The Microsoft Surface Laptop 4 features a 13.5-inch or 15-inch PixelSense display, 11th Gen Intel Core or AMD Ryzen processors, up to 32GB of RAM, and up to 1TB SSD storage.",
+    "image_url": "https://images.unsplash.com/photo-1608220202958-10c430faa6af?auto=format&q=75&fit=crop&w=750",
+    "category_id": 4
+  }
+]

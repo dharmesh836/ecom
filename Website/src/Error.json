@@ -1,0 +1,29 @@
+{
+  "product_id": 301,
+  "product_name": "Canon EOS M50 Mark II",
+  "brand": "Canon",
+  "price": 799.99,
+  "description": "The Canon EOS M50 Mark II is a compact and lightweight mirrorless camera with a 24.1 Megapixel APS-C CMOS sensor, 4K video recording, and a vari-angle touchscreen LCD.",
+
+  "image_url": {
+    "img1": "https://rukminim1.flixcart.com/image/416/416/knyxqq80/dslr-camera/r/y/x/digital-camera-eos-m50-mark-ii-eos-m50-mark-ii-canon-original-imag2gzkexzqhyhu.jpeg?q=70",
+    "img2": "",
+    "img3": ""
+  },
+  "category": "Electronics",
+  "sub_category": "Camera",
+
+  "reviews": {
+    "total_reviews": 2,
+    "average_rating": 4.5,
+    "reviews_list": [
+      {
+        "review_id": 1,
+        "reviewer_name": "John Smith",
+        "rating": 5,
+        "comment": "This camera is amazing! The picture quality is fantastic and the autofocus is lightning fast. Highly recommended.",
+        "date": "2022-04-15"
+      }
+    ]
+  }
+}

@@ -1,0 +1,146 @@
+[
+  {
+    "product_id": 201,
+    "product_name": "Sony X950H",
+    "brand": "Sony",
+    "price": 1399.99,
+    "description": "The Sony X950H features a 55-inch 4K HDR display, Android TV, and a powerful X1 Ultimate processor for superior picture and sound quality.",
+    "image_url": "https://images.unsplash.com/photo-1571960775641-16d7ee8f0dd2?auto=format&q=75&fit=crop&w=750",
+    "category_id": 5
+  },
+
+  {
+    "product_id": 202,
+    "product_name": "LG CX",
+    "brand": "LG",
+    "price": 1899.99,
+    "description": "The LG CX features a 65-inch OLED display, 4K HDR, and support for Dolby Vision IQ and Dolby Atmos for immersive viewing and listening experiences.",
+    "image_url": "https://images.unsplash.com/photo-1606333834066-874c817b94de?auto=format&q=75&fit=crop&w=750",
+    "category_id": 5
+  },
+
+  {
+    "product_id": 203,
+    "product_name": "Samsung QN90A",
+    "brand": "Samsung",
+    "price": 2499.99,
+    "description": "The Samsung QN90A features a 75-inch Neo QLED display, 4K HDR, and support for Quantum HDR 32X for stunning visuals and true-to-life colors.",
+    "image_url": "https://images.unsplash.com/photo-1623625962165-0a38b93f10ab?auto=format&q=75&fit=crop&w=750",
+    "category_id": 5
+  },
+
+  {
+    "product_id": 204,
+    "product_name": "TCL 6-Series",
+    "brand": "TCL",
+    "price": 799.99,
+    "description": "The TCL 6-Series features a 55-inch 4K HDR display with Dolby Vision and HDR10 support, and Roku TV built-in for seamless streaming and content discovery.",
+    "image_url": "https://images.unsplash.com/photo-1611584265425-bfae62c35d2f?auto=format&q=75&fit=crop&w=750",
+    "category_id": 5
+  },
+
+  {
+    "product_id": 205,
+    "product_name": "Vizio M-Series Quantum",
+    "brand": "Vizio",
+    "price": 899.99,
+    "description": "The Vizio M-Series Quantum features a 65-inch 4K HDR display with Quantum Color and support for Dolby Vision and HDR10+ for stunning visuals and lifelike colors.",
+    "image_url": "https://images.unsplash.com/photo-1607013783571-f8b65d0a7c88?auto=format&q=75&fit=crop&w=750",
+    "category_id": 5
+  },
+  {
+    "product_id": 206,
+    "product_name": "LG CX Series",
+    "brand": "LG",
+    "price": 1799.99,
+    "description": "The LG CX Series features a 55-inch 4K OLED display with support for HDR10, Dolby Vision, and HLG for lifelike colors and stunning visuals. It also features LG's AI ThinQ technology for voice control and smart home integration.",
+    "image_url": "https://images.unsplash.com/photo-1607013446248-6b5ce6b354cb?auto=format&q=75&fit=crop&w=750",
+    "category_id": 5
+  },
+
+  {
+    "product_id": 207,
+    "product_name": "Samsung Q80T",
+    "brand": "Samsung",
+    "price": 1299.99,
+    "description": "The Samsung Q80T features a 65-inch 4K QLED display with Quantum HDR 16X for stunning brightness and lifelike colors. It also has a built-in Alexa for voice control and smart home integration.",
+    "image_url": "https://images.unsplash.com/photo-1590485474702-688a3ffea2f1?auto=format&q=75&fit=crop&w=750",
+    "category_id": 5
+  },
+
+  {
+    "product_id": 208,
+    "product_name": "Sony X900H",
+    "brand": "Sony",
+    "price": 1199.99,
+    "description": "The Sony X900H features a 65-inch 4K HDR display with full array LED backlighting for stunning contrast and lifelike colors. It also has built-in Alexa and Google Assistant for voice control and smart home integration.",
+    "image_url": "https://images.unsplash.com/photo-1607311884101-c438068b7c96?auto=format&q=75&fit=crop&w=750",
+    "category_id": 5
+  },
+
+  {
+    "product_id": 209,
+    "product_name": "TCL 6-Series",
+    "brand": "TCL",
+    "price": 699.99,
+    "description": "The TCL 6-Series features a 55-inch 4K QLED display with Dolby Vision HDR and support for HDR10 for stunning visuals and lifelike colors. It also has built-in Roku for streaming your favorite shows and movies.",
+    "image_url": "https://images.unsplash.com/photo-1605233846344-94a76788377f?auto=format&q=75&fit=crop&w=750",
+    "category_id": 5
+  },
+
+  {
+    "product_id": 210,
+    "product_name": "Hisense H8G",
+    "brand": "Hisense",
+    "price": 599.99,
+    "description": "The Hisense H8G features a 55-inch 4K ULED display with Dolby Vision HDR and support for HDR10 and HLG for stunning visuals and lifelike colors. It also has built-in Alexa for voice control and smart home integration.",
+    "image_url": "https://images.unsplash.com/photo-1587046446639-c61bc81aaff1?auto=format&q=75&fit=crop&w=750",
+    "category_id": 5
+  },
+  {
+    "product_id": 215,
+    "product_name": "TCL 6-Series",
+    "brand": "TCL",
+    "price": 899.99,
+    "description": "The TCL 6-Series features a 55-inch QLED display with 4K UHD resolution and Quantum Dot technology for stunning visuals and vibrant colors. It also has built-in Roku for easy access to your favorite streaming services.",
+    "image_url": "https://images.unsplash.com/photo-1620155785204-6f26b6eb0ed6?auto=format&q=75&fit=crop&w=750",
+    "category_id": 5
+  },
+
+  {
+    "product_id": 220,
+    "product_name": "LG CX",
+    "brand": "LG",
+    "price": 1999.99,
+    "description": "The LG CX features a 65-inch OLED display with 4K UHD resolution and support for HDR10, HLG, and Dolby Vision HDR for stunning visuals and lifelike colors. It also has built-in Alexa and Google Assistant for voice control and smart home integration.",
+    "image_url": "https://images.unsplash.com/photo-1595294653085-5b31fdcfb064?auto=format&q=75&fit=crop&w=750",
+    "category_id": 5
+  },
+  {
+    "product_id": 225,
+    "product_name": "Samsung Q80T",
+    "brand": "Samsung",
+    "price": 1499.99,
+    "description": "The Samsung Q80T features a 65-inch QLED display with 4K UHD resolution and support for HDR10+ for stunning visuals and vibrant colors. It also has built-in Alexa and Bixby for voice control and smart home integration.",
+    "image_url": "https://images.unsplash.com/photo-1613364060682-b116865ae9c7?auto=format&q=75&fit=crop&w=750",
+    "category_id": 5
+  },
+  {
+    "product_id": 230,
+    "product_name": "Sony X900H",
+    "brand": "Sony",
+    "price": 1299.99,
+    "description": "The Sony X900H features a 65-inch LED display with 4K UHD resolution and support for HDR10, HLG, and Dolby Vision HDR for stunning visuals and lifelike colors. It also has built-in Alexa and Google Assistant for voice control and smart home integration.",
+    "image_url": "https://images.unsplash.com/photo-1602728520694-2ef9eb1a7ab8?auto=format&q=75&fit=crop&w=750",
+    "category_id": 5
+  },
+  {
+    "product_id": 235,
+    "product_name": "Vizio OLED",
+    "brand": "Vizio",
+    "price": 1399.99,
+    "description": "The Vizio OLED features a 55-inch OLED display with 4K UHD resolution and support for HDR10, HLG, and Dolby Vision HDR for stunning visuals and lifelike colors. It also has built-in Alexa and Google Assistant for voice control and smart home integration.",
+    "image_url": "https://images.unsplash.com/photo-1613373425373-3a4a11f82b7f?auto=format&q=75&fit=crop&w=750",
+    "category_id": 5
+  }
+]

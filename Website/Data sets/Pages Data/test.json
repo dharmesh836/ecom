@@ -1,0 +1,48 @@
+{
+  "FirstGrid": [
+    {
+      "Category": "Home",
+      "Collection": "Decoration",
+      "ImageSource": "https://images.unsplash.com/photo-1620243318482-fdd2affd7a38?auto=format&q=75&fit=crop&w=750"
+    },
+    {
+      "Category": "Mordern",
+      "Collection": "Furniture",
+      "ImageSource": "https://images.unsplash.com/photo-1620241608701-94ef138c7ec9?auto=format&q=75&fit=crop&w=750"
+    }
+  ],
+  "SecondGrid": [
+    {
+      "FirstPlaceholder": "Men",
+      "SecondPlaceholder": "Business Causual",
+      "ImageSource": "https://images.unsplash.com/photo-1552374196-1ab2a1c593e8?auto=format&q=75&fit=crop&crop=top&w=600&h=700"
+    },
+    {
+      "FirstPlaceholder": "Women",
+      "SecondPlaceholder": "Winter Season",
+      "ImageSource": "https://images.unsplash.com/photo-1552668693-d0738e00eca8?auto=format&q=75&fit=crop&crop=top&w=600&h=700"
+    },
+    {
+      "FirstPlaceholder": "Men",
+      "SecondPlaceholder": "Streetwear",
+      "ImageSource": "https://images.unsplash.com/photo-1560269999-cef6ebd23ad3?auto=format&q=75&fit=crop&w=600&h=700"
+    },
+    {
+      "FirstPlaceholder": "Women",
+      "SecondPlaceholder": "Sale",
+      "ImageSource": "https://images.unsplash.com/photo-1552374196-1ab2a1c593e8?auto=format&q=75&fit=crop&crop=top&w=600&h=700"
+    }
+  ],
+  "ThirdGrid": [
+    {
+      "Category": "Home",
+      "Collection": "Decoration",
+      "ImageSource": "https://images.unsplash.com/photo-1620243318482-fdd2affd7a38?auto=format&q=75&fit=crop&w=750"
+    },
+    {
+      "Category": "Mordern",
+      "Collection": "Furniture",
+      "ImageSource": "https://images.unsplash.com/photo-1620241608701-94ef138c7ec9?auto=format&q=75&fit=crop&w=750"
+    }
+  ]
+}

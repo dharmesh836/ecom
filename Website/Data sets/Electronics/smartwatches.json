@@ -1,0 +1,210 @@
+[
+  {
+    "product_id": 101,
+    "product_name": "Apple Watch Series 7",
+    "brand": "Apple",
+    "price": 399.99,
+    "description": "The Apple Watch Series 7 features a larger, always-on Retina display, new watch faces, and faster charging.",
+    "image_url": "https://images.unsplash.com/photo-1621910456346-84f1ef0582e2?auto=format&q=75&fit=crop&w=750",
+    "category_id": 8
+  },
+
+  {
+    "product_id": 102,
+    "product_name": "Samsung Galaxy Watch 4",
+    "brand": "Samsung",
+    "price": 349.99,
+    "description": "The Samsung Galaxy Watch 4 features a 1.4-inch AMOLED display, up to 40 hours of battery life, and a variety of fitness tracking features.",
+    "image_url": "https://images.unsplash.com/photo-1613132282025-7c8d491346d6?auto=format&q=75&fit=crop&w=750",
+    "category_id": 8
+  },
+
+  {
+    "product_id": 103,
+    "product_name": "Fitbit Versa 3",
+    "brand": "Fitbit",
+    "price": 229.95,
+    "description": "The Fitbit Versa 3 features built-in GPS, active zone minutes, and the ability to track your heart rate, sleep, and more.",
+    "image_url": "https://images.unsplash.com/photo-1615170704246-03ef6e17b6c8?auto=format&q=75&fit=crop&w=750",
+    "category_id": 8
+  },
+
+  {
+    "product_id": 104,
+    "product_name": "Garmin Venu 2",
+    "brand": "Garmin",
+    "price": 399.99,
+    "description": "The Garmin Venu 2 features a 1.3-inch AMOLED display, up to 11 days of battery life, and over 25 built-in sports apps.",
+    "image_url": "https://images.unsplash.com/photo-1620985697877-98a0b8a4b4ad?auto=format&q=75&fit=crop&w=750",
+    "category_id": 8
+  },
+
+  {
+    "product_id": 105,
+    "product_name": "Fossil Gen 5",
+    "brand": "Fossil",
+    "price": 295.0,
+    "description": "The Fossil Gen 5 features a 1.28-inch AMOLED display, up to 24 hours of battery life, and the ability to make and receive calls.",
+    "image_url": "https://images.unsplash.com/photo-1598967053867-6b3671a243a3?auto=format&q=75&fit=crop&w=750",
+    "category_id": 8
+  },
+
+  {
+    "product_id": 106,
+    "product_name": "Huawei Watch GT2 Pro",
+    "brand": "Huawei",
+    "price": 299.99,
+    "description": "The Huawei Watch GT2 Pro features a 1.39-inch AMOLED display, up to 14 days of battery life, and the ability to track your fitness and health.",
+    "image_url": "https://images.unsplash.com/photo-1605819902576-c52d6ce54706?auto=format&q=75&fit=crop&w=750",
+    "category_id": 8
+  },
+
+  {
+    "product_id": 107,
+    "product_name": "Samsung Galaxy Watch Active2",
+    "brand": "Samsung",
+    "price": 249.99,
+    "description": "The Samsung Galaxy Watch Active2 features a 1.4-inch Super AMOLED display, up to 5 days of battery life, and the ability to track your fitness and health.",
+    "image_url": "https://images.unsplash.com/photo-1598514094662-0c06f0d74e32?auto=format&q=75&fit=crop&w=750",
+    "category_id": 8
+  },
+
+  {
+    "product_id": 108,
+    "product_name": "Fitbit Versa 3",
+    "brand": "Fitbit",
+    "price": 229.99,
+    "description": "The Fitbit Versa 3 features a 1.58-inch AMOLED display, up to 6+ days of battery life, and the ability to track your fitness and health.",
+    "image_url": "https://images.unsplash.com/photo-1617907642095-512aa7d466ff?auto=format&q=75&fit=crop&w=750",
+    "category_id": 8
+  },
+
+  {
+    "product_id": 109,
+    "product_name": "Garmin Venu 2",
+    "brand": "Garmin",
+    "price": 399.99,
+    "description": "The Garmin Venu 2 features a 1.3-inch AMOLED display, up to 11 days of battery life, and the ability to track your fitness and health.",
+    "image_url": "https://images.unsplash.com/photo-1587623277921-0b08559c02d8?auto=format&q=75&fit=crop&w=750",
+    "category_id": 8
+  },
+
+  {
+    "product_id": 110,
+    "product_name": "TicWatch Pro 3",
+    "brand": "TicWatch",
+    "price": 299.99,
+    "description": "The TicWatch Pro 3 features a 1.4-inch AMOLED display, up to 72 hours of battery life, and the ability to track your fitness and health.",
+    "image_url": "https://images.unsplash.com/photo-1593971413197-9d08f9cc7e55?auto=format&q=75&fit=crop&w=750",
+    "category_id": 8
+  },
+
+  {
+    "product_id": 111,
+    "product_name": "Fossil Gen 5",
+    "brand": "Fossil",
+    "price": 249.99,
+    "description": "The Fossil Gen 5 features a 1.28-inch AMOLED display, up to 24 hours of battery life, and the ability to track your fitness and health.",
+    "image_url": "https://images.unsplash.com/photo-1582129474249-9dcadda8061e?auto=format&q=75&fit=crop&w=750",
+    "category_id": 8
+  },
+
+  {
+    "product_id": 112,
+    "product_name": "Samsung Galaxy Watch3",
+    "brand": "Samsung",
+    "price": 329.99,
+    "description": "The Samsung Galaxy Watch3 features a 1.2-inch AMOLED display, up to 4 days of battery life, and the ability to track your fitness and health.",
+    "image_url": "https://images.unsplash.com/photo-1606597333546-c1001bb86556?auto=format&q=75&fit=crop&w=750",
+    "category_id": 8
+  },
+
+  {
+    "product_id": 113,
+    "product_name": "Apple Watch Series 6",
+    "brand": "Apple",
+    "price": 399.99,
+    "description": "The Apple Watch Series 6 features a 1.78-inch Retina display, up to 18 hours of battery life, and the ability to track your fitness and health.",
+    "image_url": "https://images.unsplash.com/photo-1603161296094-c5c5b5e555d5?auto=format&q=75&fit=crop&w=750",
+    "category_id": 8
+  },
+
+  {
+    "product_id": 114,
+    "product_name": "Fitbit Versa 3",
+    "brand": "Fitbit",
+    "price": 229.99,
+    "description": "The Fitbit Versa 3 features a 1.58-inch AMOLED display, up to 6 days of battery life, and the ability to track your fitness and health.",
+    "image_url": "https://images.unsplash.com/photo-1605906489303-9215af3d5f5f?auto=format&q=75&fit=crop&w=750",
+    "category_id": 8
+  },
+
+  {
+    "product_id": 115,
+    "product_name": "Garmin Venu 2",
+    "brand": "Garmin",
+    "price": 399.99,
+    "description": "The Garmin Venu 2 features a 1.3-inch AMOLED display, up to 11 days of battery life, and the ability to track your fitness and health.",
+    "image_url": "https://images.unsplash.com/photo-1611562372931-ec0db0f74d25?auto=format&q=75&fit=crop&w=750",
+    "category_id": 8
+  },
+
+  {
+    "product_id": 116,
+    "product_name": "Ticwatch Pro 3",
+    "brand": "Ticwatch",
+    "price": 299.99,
+    "description": "The Ticwatch Pro 3 features a 1.4-inch AMOLED display, up to 3 days of battery life, and the ability to track your fitness and health.",
+    "image_url": "https://images.unsplash.com/photo-1605855632575-83f5cf5e0a9f?auto=format&q=75&fit=crop&w=750",
+    "category_id": 8
+  },
+  {
+    "product_id": 117,
+    "product_name": "Samsung Galaxy Watch Active 2",
+    "brand": "Samsung",
+    "price": 249.99,
+    "description": "The Samsung Galaxy Watch Active 2 features a 1.4-inch AMOLED display, up to 2 days of battery life, and the ability to track your fitness and health.",
+    "image_url": "https://images.unsplash.com/photo-1605529283036-5c5f5a50a5ca?auto=format&q=75&fit=crop&w=750",
+    "category_id": 8
+  },
+
+  {
+    "product_id": 118,
+    "product_name": "Fitbit Versa 3",
+    "brand": "Fitbit",
+    "price": 229.95,
+    "description": "The Fitbit Versa 3 features a 1.58-inch AMOLED display, up to 6 days of battery life, and the ability to track your fitness and health.",
+    "image_url": "https://images.unsplash.com/photo-1613067758518-45b2dd2c4436?auto=format&q=75&fit=crop&w=750",
+    "category_id": 8
+  },
+
+  {
+    "product_id": 119,
+    "product_name": "Garmin Venu",
+    "brand": "Garmin",
+    "price": 349.99,
+    "description": "The Garmin Venu features a 1.2-inch AMOLED display, up to 5 days of battery life, and the ability to track your fitness and health.",
+    "image_url": "https://images.unsplash.com/photo-1589810620306-f49b523cd8e1?auto=format&q=75&fit=crop&w=750",
+    "category_id": 8
+  },
+
+  {
+    "product_id": 120,
+    "product_name": "Apple Watch Series 6",
+    "brand": "Apple",
+    "price": 399.0,
+    "description": "The Apple Watch Series 6 features a 1.78-inch Retina display, up to 18 hours of battery life, and the ability to track your fitness and health.",
+    "image_url": "https://images.unsplash.com/photo-1602066764685-6b57f7c79c51?auto=format&q=75&fit=crop&w=750",
+    "category_id": 8
+  },
+
+  {
+    "product_id": 121,
+    "product_name": "Amazfit GTS 2",
+    "brand": "Amazfit",
+    "price": 179.99,
+    "description": "The Amazfit GTS 2 features a 1.65-inch AMOLED display, up to 7 days of battery life, and the ability to track your fitness and health.",
+    "image_url": "https://images.unsplash.com/photo-1615525565631-03f8676e9f6c?auto=format&q=75&fit=crop&w=750",
+    "category_id": 8
+  }
+]

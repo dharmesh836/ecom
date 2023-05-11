@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+
+
+<body>
+  
+  {{>header}}
+
+  <div class="box-border p-4 bg-slate-200 ">
+  <section class=" -mt-2 bg-white rounded-md text-gray-600 body-font select-none ">
+    <div class="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
+      <div
+        class="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
+        <h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">Get one for yourself
+          <br class="hidden lg:inline-block">Special Offer at Discounted Price
+        </h1>
+        <p class="mb-8 leading-relaxed">
+          Upgrade your work and play game with our high-performance laptops, now available at unbeatable discounts!
+          Hurry up and grab yours before the offer ends!
+        </p>
+        <div class="flex justify-center">
+          <form action="/product_grid" method="get">
+          <button
+            class="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">Check
+            Now</button>
+          </form>
+          <!-- <button class="ml-4 inline-flex text-gray-700 bg-gray-100 border-0 py-2 px-6 focus:outline-none hover:bg-gray-200 rounded text-lg">Button</button> -->
+        </div>
+      </div>
+      <div class="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
+        <img class="object-cover object-center rounded" alt="hero"
+          src="https://arusgadget.com/wp-content/uploads/2022/03/all-new-macbook-air-_ratio-16x9-1.jpg">
+      </div>
+    </div>
+  </section>
+  <section class="bg-white rounded-md text-gray-600 body-font select-none">
+    <div class="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
+      <div class="lg:max-w-lg lg:w-full md:w-1/2 w-5/6 mb-10 md:mb-0">
+        <img class="object-cover object-center rounded" alt="hero"
+          src="https://elanstreet.com/blog/wp-content/uploads/2019/05/Men-Fashion.jpg">
+      </div>
+      <div
+        class="lg:flex-grow md:w-1/2 lg:pl-24 md:pl-16 flex flex-col md:items-start md:text-left items-center text-center">
+        <h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900"> Unleash your style with our
+          exclusive
+          <br class="hidden lg:inline-block"> fashion deals of the day!
+        </h1>
+        <p class="mb-8 leading-relaxed">
+          Get up to 50% off on the trendiest clothing,
+          shoes, and accessories. Don't miss out on this limited-time offer, hurry up and check out today's deals!
+        </p>
+        <div class="flex justify-center">
+          <form action="/product_grid" method="get">
+          <button
+            class="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">Check
+            Now</button>
+          </form>
+          <!-- <button
+            class="ml-4 inline-flex text-gray-700 bg-gray-100 border-0 py-2 px-6 focus:outline-none hover:bg-gray-200 rounded text-lg">Check Now</button> -->
+        </div>
+      </div>
+    </div>
+  </section>
+<!-- Collections -->
+  <div class="bg-white py-6 sm:py-8 lg:py-12 select-none">
+    <div class="mx-auto max-w-screen-2xl px-4 md:px-8">
+      <!-- text - start -->
+      <div class="mb-10 md:mb-16">
+        <h2 class="mb-4 text-center text-2xl font-bold text-gray-800 md:mb-6 lg:text-3xl">Collections</h2>
+
+        <p class="mx-auto max-w-screen-md text-center text-gray-500 md:text-lg">Discover our extensive collection of
+          items that cater to your every need! From electronics to fashion, home decor, and more - we have everything
+          you need all in one place. Shop now and experience the convenience of online shopping with our ecommerce
+          website.
+        </p>
+      </div>
+      <!-- text - end -->
+
+      <div class="grid gap-6 sm:grid-cols-2">
+
+
+        {{#each FirstGrid}}
+        {{>collection_card1}}
+        {{/each}}
+
+
+      </div>
+    </div>
+  </div>
+  <div class="bg-white py-6 sm:py-8 lg:py-12">
+    <div class="mx-auto max-w-screen-2xl px-4 md:px-8">
+      <div class="grid gap-4 sm:grid-cols-2 md:gap-6 lg:grid-cols-3 xl:grid-cols-4">
+
+
+        {{#each SecondGrid}}
+        {{>collection_card2}}
+        {{/each}}
+
+        {{#each SecondGrid}}
+        {{>collection_card2}}
+        {{/each}}
+
+
+
+      </div>
+    </div>
+  </div>
+  <div class="bg-white py-6 sm:py-8 lg:py-12 rounded-md">
+    <div class="mx-auto max-w-screen-2xl px-4 md:px-8">
+      <div class="grid gap-6 sm:grid-cols-2">
+        {{#each ThirdGrid}}
+        {{>collection_card1}}
+        {{/each}}
+      </div>
+    </div>
+  </div>
+  </div>
+
+{{>footer}}
+
+</body>
+
+</html>

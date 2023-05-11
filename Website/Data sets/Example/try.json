@@ -1,0 +1,33 @@
+[
+  {
+    "Category": "Electronics",
+    "SubCategory": [
+      {
+        "SubCategoryName": "Cameras",
+        "ImageSource": "https://example.com/cameras.jpg"
+      },
+      {
+        "SubCategoryName": "Laptops",
+        "ImageSource": "https://example.com/laptops.jpg"
+      }
+    ]
+  },
+  {
+    "Category": "Fashion",
+    "SubCategory": [
+      {
+        "SubCategoryName": "Smartphones",
+        "ImageSource": "https://example.com/smartphones.jpg"
+      }
+    ]
+  },
+  {
+    "Category": "Sports & Outdoors",
+    "SubCategory": [
+      {
+        "SubCategoryName": "Headphones",
+        "ImageSource": "https://example.com/headphones.jpg"
+      }
+    ]
+  }
+]

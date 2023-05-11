@@ -1,0 +1,25 @@
+<!-- product - start -->
+<form action="/product_grid" method="get">
+<div>
+  <a
+    href="/product_grid?category={{Category}}&sub_category={{Sub_Category}}"
+    class="group relative flex h-96 items-end overflow-hidden rounded-lg bg-gray-100 p-4 shadow-lg"
+  >
+    <img
+      src={{ImageSource}}
+      loading="lazy"
+      alt="Photo by Austin Wade"
+      class="absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110"
+    />
+
+    <div
+      class="relative flex w-full flex-col rounded-lg bg-white p-4 text-center"
+    >
+      <span class="text-gray-500">{{Category}}</span>
+      <span class="text-lg font-bold text-gray-800 lg:text-xl">{{Sub_Category}}</span>
+    </div>
+  </a>
+</div>
+</form>
+
+<!-- product - end -->
